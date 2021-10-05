@@ -6,7 +6,7 @@
 
 #header {
   height: 100vh;
-  background-image: url(/complete.img/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg);
+  background-image: url(complete.img/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -132,7 +132,7 @@ nav ul li a {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url(/complete.img/kimberly-farmer-lUaaKCUANVI-unsplash.jpg);
+  background-image: url(complete.img/kimberly-farmer-lUaaKCUANVI-unsplash.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -249,7 +249,7 @@ nav ul li a {
 }
 
 #offer {
-  background-image: url(/complete.img/susan-q-yin-2JIvboGLeho-unsplash.jpg);
+  background-image: url(complete.img/susan-q-yin-2JIvboGLeho-unsplash.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -307,7 +307,7 @@ nav ul li a {
 
 #contact {
   height: 100vh;
-  background-image: url(/complete.img/shubham-sharan-Z-fq3wBVfMU-unsplash.jpg);
+  background-image: url(complete.img/shubham-sharan-Z-fq3wBVfMU-unsplash.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
